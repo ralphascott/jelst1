@@ -1,6 +1,6 @@
 # jelst1_replication
 
-Replication code for Electoral Studies article "Does university make you more liberal? Estimating the within-individual effects of higher education on political values"
+Replication code for Electoral Studies article "Does university make you more liberal? Estimating the within-individual effects of higher education on political values". DOI: https://doi.org/10.1016/j.electstud.2022.102471
 
 For replication script to function, users will need to apply to access and download the following BCS 1970 data from the UKDS.
 
